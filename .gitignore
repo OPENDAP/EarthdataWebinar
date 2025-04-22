@@ -1,0 +1,28 @@
+
+# C extensions
+*.so
+
+# no chached sessions
+*.sqlite
+
+
+# Installer logs
+pip-log.txt
+
+# ignore shell script at base level
+*.sh
+
+# json files
+binder/*.json
+
+# Vim
+*.swp
+
+# OS-X Finder
+*.DS_Store
+
+# IDEA Projects
+.idea
+
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
